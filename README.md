@@ -22,7 +22,7 @@ This repository's purpose is to utilise every technical skill that was learned a
 
 ## Tools Used:
 - Google Colab (Python 3) - to clean and manipulate datasets 
-- Power BI - to create an interactive dashboard (online version: https://app.powerbi.com/viewr=eyJrIjoiMTc0YTAyMGQtZDZhYi00MGQyLTljMDMtYmNlOTVmNjY3YTU1IiwidCI6IjY1NzA5M2U5LTkyNDUtNDdjZS05MDcwLTI2MjViM2MxMTM0ZCJ9)
+- Power BI - to create an interactive dashboard 
 - Google Slides - to make a report about the entire project and give insights as well as valuable recommendations 
 - Github - to document the project
 
@@ -32,3 +32,9 @@ This repository's purpose is to utilise every technical skill that was learned a
 - Data modelling
 - Machine Learning
 - Data analysis & visualisation
+
+---
+
+## Power BI dashboard preview: 
+<img width="2302" height="1302" alt="Screenshot 2025-11-07 210121" src="https://github.com/user-attachments/assets/1c02f918-f17b-4732-94bf-1095adf32afb" />
+
