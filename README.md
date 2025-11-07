@@ -4,11 +4,11 @@
 "In this capstone project, you will analyze a dataset containing audio-derived features (e.g., Mel filters, Fourier transformation) extracted from voice recordings of patients labeled as "Healthy" or "Unhealthy." The goal is to perform exploratory data analysis (EDA), clean the data, visualize insights in a Power BI dashboard, and build a predictive model to classify patients based on their health status."
 
 ## Deliverables: 
-•	EDA (30%): Depth of analysis, quality of visualizations, and clarity of insights.
-•	Data Cleaning (15%): Effectiveness and documentation of cleaning steps.
-•	Power BI Dashboard (20%): Clarity, interactivity, and relevance of visuals.
-•	Predictive Model (25%): Model performance, evaluation, and optimization.
-•	Report (10%): Structure, clarity, and completeness.
+- EDA (30%): Depth of analysis, quality of visualizations, and clarity of insights.
+- Data Cleaning (15%): Effectiveness and documentation of cleaning steps.
+- Power BI Dashboard (20%): Clarity, interactivity, and relevance of visuals.
+- Predictive Model (25%): Model performance, evaluation, and optimization.
+- Report (10%): Structure, clarity, and completeness.
 
 ---
 
